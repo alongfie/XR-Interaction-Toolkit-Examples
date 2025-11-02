@@ -22,6 +22,7 @@ The current version of the XRI Examples is compatible with the following version
     1. Download, install, and run [Unity Hub](https://unity3d.com/get-unity/download)
     1. In the **Installs** tab, select **Locate** or **Add** to find or install Unity 2021.3 LTS or later. Include the **Windows Build Support (IL2CPP)** module if building for PC, and the **Android Build Support** if building for Android (for example, Meta Quest).
     1. In the **Projects** tab, click **Add**
+           *******USING UNITY 6.3.0b2 BETA **** THIS PACKAGE CANNOT BE ADDED VIA PROJECTS TAB
     1. Browse to folder where you downloaded a copy of this repository and click **Select Folder**
     1. Verify the project has been added as **XR-Interaction-Toolkit-Examples**, and click on it to open the project
 
